@@ -14,9 +14,11 @@ The organization shall be known as the Linux User Group.
 
 The object of this organization shall be to:
 
-A.  Promote \*nix operating systems
-B.  Promote Free and Open Source Software (FOSS)
-C.  Offer support to the current and future \*nix users on campus
+  A.  Promote \*nix operating systems
+
+  B.  Promote Free and Open Source Software (FOSS)
+
+  C.  Offer support to the current and future \*nix users on campus
 
 ## III.  Membership
 
